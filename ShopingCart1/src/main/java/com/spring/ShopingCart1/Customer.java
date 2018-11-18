@@ -7,6 +7,7 @@ public class Customer {
 		
 		String name;
 		System.out.println("Hello Prohgra");
+		String s;
 
 	}
 
